@@ -1,24 +1,26 @@
 {
-  "totalSolved": 2,
+  "totalSolved": 3,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-09-15",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 0,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
     "LeetCode_Minimum_Operations_to_exceed_Threshold_Value_1": true,
-    "LeetCode_Move_Zeroes": true
+    "LeetCode_Move_Zeroes": true,
+    "LeetCode_Find_the_Difference": true
   },
   "activityHistory": {
     "2026-09-12": 1,
-    "2026-09-15": 1
+    "2026-09-15": 2
   },
   "todayProblems": [
-    "Move Zeroes"
+    "Move Zeroes",
+    "Find the Difference"
   ]
 }
