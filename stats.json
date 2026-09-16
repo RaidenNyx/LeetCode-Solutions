@@ -1,11 +1,11 @@
 {
-  "totalSolved": 3,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-09-15",
-  "todayCount": 2,
+  "totalSolved": 4,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-09-16",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -13,14 +13,15 @@
   "syncedProblems": {
     "LeetCode_Minimum_Operations_to_exceed_Threshold_Value_1": true,
     "LeetCode_Move_Zeroes": true,
-    "LeetCode_Find_the_Difference": true
+    "LeetCode_Find_the_Difference": true,
+    "LeetCode_Length_of_Last_Word": true
   },
   "activityHistory": {
     "2026-09-12": 1,
-    "2026-09-15": 2
+    "2026-09-15": 2,
+    "2026-09-16": 1
   },
   "todayProblems": [
-    "Move Zeroes",
-    "Find the Difference"
+    "Length of Last Word"
   ]
 }
