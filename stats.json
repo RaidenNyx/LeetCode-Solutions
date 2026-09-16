@@ -1,11 +1,11 @@
 {
-  "totalSolved": 5,
+  "totalSolved": 6,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-09-16",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 5,
+    "easy": 6,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -15,15 +15,17 @@
     "LeetCode_Move_Zeroes": true,
     "LeetCode_Find_the_Difference": true,
     "LeetCode_Length_of_Last_Word": true,
-    "LeetCode_Fizz_Buzz": true
+    "LeetCode_Fizz_Buzz": true,
+    "LeetCode_Number_of_Segments_in_a_String": true
   },
   "activityHistory": {
     "2026-09-12": 1,
     "2026-09-15": 2,
-    "2026-09-16": 2
+    "2026-09-16": 3
   },
   "todayProblems": [
     "Length of Last Word",
-    "Fizz Buzz"
+    "Fizz Buzz",
+    "Number of Segments in a String"
   ]
 }
