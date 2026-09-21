@@ -6,3 +6,4 @@
 | 4 | [Length of Last Word](./LeetCode/Easy/Length%20of%20Last%20Word) | [LeetCode](https://leetcode.com/problems/length-of-last-word/) | Easy | 16 Sept 2026 | 08:59 pm |
 | 5 | [Fizz Buzz](./LeetCode/Easy/Fizz%20Buzz) | [LeetCode](https://leetcode.com/problems/fizz-buzz/) | Easy | 16 Sept 2026 | 09:25 pm |
 | 6 | [Number of Segments in a String](./LeetCode/Easy/Number%20of%20Segments%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/number-of-segments-in-a-string/) | Easy | 16 Sept 2026 | 09:38 pm |
+| 7 | [Duplicate Emails](./LeetCode/Easy/Duplicate%20Emails) | [LeetCode](https://leetcode.com/problems/duplicate-emails/) | Easy | 21 Sept 2026 | 01:16 pm |
