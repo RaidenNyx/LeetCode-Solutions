@@ -1,11 +1,11 @@
 {
-  "totalSolved": 7,
+  "totalSolved": 8,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-09-21",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 7,
+    "easy": 8,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -17,15 +17,17 @@
     "LeetCode_Length_of_Last_Word": true,
     "LeetCode_Fizz_Buzz": true,
     "LeetCode_Number_of_Segments_in_a_String": true,
-    "LeetCode_Duplicate_Emails": true
+    "LeetCode_Duplicate_Emails": true,
+    "LeetCode_Delete_Duplicate_Emails": true
   },
   "activityHistory": {
     "2026-09-12": 1,
     "2026-09-15": 2,
     "2026-09-16": 3,
-    "2026-09-21": 1
+    "2026-09-21": 2
   },
   "todayProblems": [
-    "Duplicate Emails"
+    "Duplicate Emails",
+    "Delete Duplicate Emails"
   ]
 }
